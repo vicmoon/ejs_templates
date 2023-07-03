@@ -1,7 +1,7 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000e\u0000j\u0000s\u0000_\u0000t\u0000e\u0000m\u0000p\u0000l\u0000a\u0000t\u0000e\u0000s\u0000\r\u0000 \u0000",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.2",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
-    "lodash": "^4.17.11"
-  }
+    "express": "^4.18.2",
+    "lodash": "^4.17.11",
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicmoon/ejs_templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vicmoon/ejs_templates/issues"
+  },
+  "homepage": "https://github.com/vicmoon/ejs_templates#readme"
 }
